@@ -1,0 +1,9 @@
+{
+  "name": "belajar_bermain_dengan_curl",
+  "description": "file_JSON_ini_dipanggil_dari_notepad",
+  "homepage": "https://github.com",
+  "private": false,
+  "has_issues": true,
+  "has_projects": true,
+  "has_wiki": true
+}
